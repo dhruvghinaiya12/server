@@ -1,22 +1,49 @@
 {
-  "students": [
+" data": [
     {
-      "id": "ef48",
-      "name": "",
-      "number": "",
-      "course": "full stack"
+      "id": "5f1b",
+      "question": "What does API stand for?",
+      "option1": "Application Process Interface",
+      "option2": "Application Programming Interface",
+      "option3": "Automated Programming Interface",
+      "option4": "Advanced Programming Input",
+      "answer": "Application Programming Interface"
     },
     {
-      "id": "2741",
-      "name": "java",
-      "number": "7777996541",
-      "course": "backend"
+      "id": "17c6",
+      "question": "Which type of API allows different software applications to communicate over the web?",
+      "option1": "Web API",
+      "option2": "Desktop API",
+      "option3": "Mobile API",
+      "option4": "Hardware API",
+      "answer": "Web API"
     },
     {
-      "id": "3d71",
-      "name": "mongodb",
-      "number": "65",
-      "course": "backend"
+      "id": "a7b6",
+      "question": "What is the common format used to send and receive data in APIs",
+      "option1": "HTML",
+      "option2": "JSON",
+      "option3": "CSS",
+      "option4": "XML",
+      "answer": "JSON"
+    },
+    {
+      "id": "7d30",
+      "question": "Which HTTP method is typically used to retrieve data from a server?",
+      "option1": "POST",
+      "option2": "GET",
+      "option3": "DELETE",
+      "option4": "PUT",
+      "answer": "GET"
+    },
+    {
+      "id": "845a",
+      "question": "Which HTTP status code represents a successful API request?",
+      "option1": "404",
+      "option2": "500",
+      "option3": "200",
+      "option4": "403",
+      "answer": "200"
     }
   ]
 }
